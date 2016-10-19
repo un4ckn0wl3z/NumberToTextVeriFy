@@ -53,9 +53,9 @@ public class NumberToTextVeriFy {
 							}
 						}
 						//---------------------------------------------
-						for(int j44=0;j44<Unit.length;j44++){
+						for(int j44=0;j44<UnitED.length;j44++){
 							if(userInput.charAt(3) == numlist[j44]){
-								answer4[3] = Unit[j44];
+								answer4[3] = UnitED[j44];
 			
 								
 							}
