@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class NumberToTextVeriFy {
+public class Test_Num {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -78,9 +78,9 @@ public class NumberToTextVeriFy {
 							}
 						}
 						//-----------------------------------------------
-						for(int j33=0;j33<Unit.length;j33++){
+						for(int j33=0;j33<UnitED.length;j33++){
 							if(userInput.charAt(2) == numlist[j33]){
-								answer3[2] = Unit[j33];
+								answer3[2] = UnitED[j33];
 							}
 						}
 			
